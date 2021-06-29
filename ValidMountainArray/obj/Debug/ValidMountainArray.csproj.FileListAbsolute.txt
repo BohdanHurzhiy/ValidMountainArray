@@ -1,0 +1,7 @@
+C:\Users\Hurzhii_Bohdan\source\repos\ValidMountainArray\ValidMountainArray\bin\Debug\ValidMountainArray.exe.config
+C:\Users\Hurzhii_Bohdan\source\repos\ValidMountainArray\ValidMountainArray\bin\Debug\ValidMountainArray.exe
+C:\Users\Hurzhii_Bohdan\source\repos\ValidMountainArray\ValidMountainArray\bin\Debug\ValidMountainArray.pdb
+C:\Users\Hurzhii_Bohdan\source\repos\ValidMountainArray\ValidMountainArray\obj\Debug\ValidMountainArray.csprojAssemblyReference.cache
+C:\Users\Hurzhii_Bohdan\source\repos\ValidMountainArray\ValidMountainArray\obj\Debug\ValidMountainArray.csproj.CoreCompileInputs.cache
+C:\Users\Hurzhii_Bohdan\source\repos\ValidMountainArray\ValidMountainArray\obj\Debug\ValidMountainArray.exe
+C:\Users\Hurzhii_Bohdan\source\repos\ValidMountainArray\ValidMountainArray\obj\Debug\ValidMountainArray.pdb
